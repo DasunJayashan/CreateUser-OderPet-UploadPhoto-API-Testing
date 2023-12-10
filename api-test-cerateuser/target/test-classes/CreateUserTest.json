@@ -1,0 +1,12 @@
+{
+  "create.user.test.pay.load": {
+    "id": 85469,
+    "username": "Dasun",
+    "firstName": "Dasun",
+    "lastName": "Jayshan",
+    "email": "dasunjayashan123@gmail.com",
+    "password": "Dasu@123",
+    "phone": "0777777777",
+    "userStatus": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "update.pet.pay.load":{
+    "id": 895741,
+    "category": {
+      "id": 2,
+      "name": "bulldog"
+    },
+    "name": "tommy",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+}

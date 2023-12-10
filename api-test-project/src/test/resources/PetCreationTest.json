@@ -1,0 +1,20 @@
+{
+  "pet.creation.pay.load": {"id": 895741,
+    "category": {
+      "id": 1,
+      "name": "sheperd"
+    },
+    "name": "zeeba",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"}
+
+
+}

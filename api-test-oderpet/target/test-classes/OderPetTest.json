@@ -1,0 +1,10 @@
+{
+  "oder.pet.test.pay.load": {
+    "id": 1,
+    "petId": 1,
+    "quantity": 5,
+    "shipDate": "2023-11-23T11:05:16.939Z",
+    "status": "placed",
+    "complete": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "update.user.test.pay.load": {
+    "id": 5,
+    "username": "Dasun",
+    "firstName": "Dasun",
+    "lastName": "Jayashan",
+    "email": "dasunjayashan123@gmail.com",
+    "password": "password",
+    "phone": "0777598077",
+    "userStatus": 0
+  }
+}
